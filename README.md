@@ -47,3 +47,7 @@ Connect with me on [LinkedIn](https://www.linkedin.com) (add your link here).
 ## 📎 License
 
 This project is for educational and portfolio purposes.
+
+## Screenshot 
+
+Dashboard Preview (https://github.com/AntonAbhisheik/Employee-Work-Analysis/blob/main/Screenshot%202025-06-23%20163940.png)

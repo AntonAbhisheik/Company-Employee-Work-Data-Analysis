@@ -6,7 +6,7 @@ This project showcases an interactive dashboard built using **Power BI** to anal
 
 ## 📂 Project Files
 
-- **Employee.pbix** — Power BI report file containing visualizations and insights.
+- **Employee and Work Analysis.pbix** — Power BI report file containing visualizations and insights.
 - **Employee and Work Data.xlsx** — Source data file with employee work hours, salaries, and department information.
 
 ---

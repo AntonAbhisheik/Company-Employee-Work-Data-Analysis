@@ -1,4 +1,4 @@
-# 📊 Employee and Work Analysis (Power BI)
+# 📊 Employee and Work Analysis (Excel + Power BI)
 
 This project showcases an interactive dashboard built using **Power BI** to analyze employee performance, work hours, and salary trends based on an Excel dataset.
 

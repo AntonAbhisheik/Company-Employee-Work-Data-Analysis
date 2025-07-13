@@ -40,7 +40,7 @@ This project showcases an interactive dashboard built using **Power BI** to anal
 
 **Anton Abhisheik**
 
-Connect with me on [LinkedIn](www.linkedin.com/in/anton-abhisheik) .
+Connect with me on [LinkedIn](https://www.linkedin.com/in/anton-abhisheik/) .
 
 ---
 

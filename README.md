@@ -1,4 +1,4 @@
-# 📊 Employee Work Analysis (Power BI)
+# 📊 Employee and Work Analysis (Power BI)
 
 This project showcases an interactive dashboard built using **Power BI** to analyze employee performance, work hours, and salary trends based on an Excel dataset.
 
@@ -30,8 +30,8 @@ This project showcases an interactive dashboard built using **Power BI** to anal
 ## 📌 How to Use
 
 1. Download the repository files.
-2. Open `Employee.pbix` in **Power BI Desktop**.
-3. Ensure `Employee and Work Data.xlsx` is available in the same folder or adjust the data source path in Power BI.
+2. Open 'Employee and Work Analysis.pbix' in **Power BI Desktop**.
+3. Ensure 'Employee and Work Data.xlsx' is available in the same folder or adjust the data source path in Power BI.
 4. Refresh the data to view interactive insights.
 
 ---
@@ -40,7 +40,7 @@ This project showcases an interactive dashboard built using **Power BI** to anal
 
 **Anton Abhisheik**
 
-Connect with me on [LinkedIn](https://www.linkedin.com) (add your link here).
+Connect with me on [LinkedIn](www.linkedin.com/in/anton-abhisheik) .
 
 ---
 
@@ -50,4 +50,4 @@ This project is for educational and portfolio purposes.
 
 ## Screenshot 
 
-Dashboard Preview (https://github.com/AntonAbhisheik/Employee-Work-Analysis/blob/main/Screenshot%202025-06-23%20163940.png)
+Dashboard Preview (DASHBOARD.png)

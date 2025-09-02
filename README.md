@@ -1,6 +1,6 @@
 # 📊 Company Employee Work Data Analysis (Excel + Power BI)
 
-This project showcases an interactive dashboard built using **Power BI** to analyze employee performance, work hours, and salary trends based on an Excel dataset.
+This project showcases an interactive dashboard built using **Power BI** to analyze employee performance, work hours, and salary trends based on an Excel dataset and Querying using MySQL.
 
 ---
 
@@ -24,6 +24,7 @@ This project showcases an interactive dashboard built using **Power BI** to anal
 
 - **Power BI**
 - **Microsoft Excel**
+- **MySQL**
 
 ---
 

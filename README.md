@@ -1,4 +1,4 @@
-# 📊 Employee and Work Analysis (Excel + Power BI)
+# 📊 Company Employee Work Data Analysis (Excel + Power BI)
 
 This project showcases an interactive dashboard built using **Power BI** to analyze employee performance, work hours, and salary trends based on an Excel dataset.
 
@@ -6,7 +6,7 @@ This project showcases an interactive dashboard built using **Power BI** to anal
 
 ## 📂 Project Files
 
-- **Employee and Work Analysis.pbix** — Power BI report file containing visualizations and insights.
+- **Company Employee Work Data Analysis.pbix** — Power BI report file containing visualizations and insights.
 - **Employee and Work Data.xlsx** — Source data file with employee work hours, salaries, and department information.
 
 ---
